@@ -698,13 +698,13 @@ a:focus {
 .fact .fact-left {
     color: #FF3333;
     /* background: #030f27; */
-    background: #00000000;
+    background: #ffffff;
 }
 
 .fact .fact-right {
     color: #030f27;
     /* background: #FF3333; */
-    background: #00000000;
+    background: #ffffff;
    
 }
 
