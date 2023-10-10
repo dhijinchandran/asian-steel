@@ -2131,6 +2131,16 @@ a:focus {
     border-radius: 60px;
     transition: .3s;
 }
+.newicon a i{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 7px 0;
+    text-align: center;
+    border: 1px solid rgba(256, 256, 256, .3);
+    border-radius: 60px;
+    transition: .3s;
+}
 
 .footer .footer-social a i {
     font-size: 15px;
